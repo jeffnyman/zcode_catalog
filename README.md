@@ -10,6 +10,12 @@ Within even the concept of a given z-code version, there were often different re
 
 Note that this is a repository that will be slowly built up over time. It exists now so that I can start building my own Z-Machine emulator and interpreter.
 
+# Zork 0
+
+<ul>
+<li>zork0-r393-s890714.z6</li>
+</ul>
+
 # Zork 1
 
 <ul>
@@ -23,12 +29,6 @@ Note that this is a repository that will be slowly built up over time. It exists
 
 <ul>
 <li>minizork-r34-s871124.z3</li>
-</ul>
-
-# Zork 0
-
-<ul>
-<li>zork0-r393-s890714.z6</li>
 </ul>
 
 # A Mind Forever Voyaging
