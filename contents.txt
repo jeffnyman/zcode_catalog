@@ -44,6 +44,12 @@ Ballyhoo
 * ballyhoo-r97-s851218.z3
 * ballyhoo-r99-s861014.z3
 
+Bureaucracy
+------------------------------------------------
+* bureaucracy-r86-s870212.z4
+* bureaucracy-r116-s870602.z4
+* bureaucracy-r160-s880521.z4
+
 Infidel
 ------------------------------------------------
 * infidel-r22-s830916.z3
