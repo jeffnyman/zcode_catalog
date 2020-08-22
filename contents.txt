@@ -91,8 +91,15 @@ Arthur
 * arthur-r74-s890714.z6
 * arthur-r74-s890714.blb
 
+ZBlorb
+------------------------------------------------
+* bronze.zblorb
+* hoosegow.zblorb
+* wedding.zblorb
+* wscholars.zblorb
+
 Glulx
 ------------------------------------------------
 * advent.blb
 * advent.ulx
-* Adventura.gblorb
+* adventura.gblorb
