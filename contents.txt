@@ -73,3 +73,10 @@ Shogun
 ------------------------------------------------
 * shogun-r322-s890706.z6
 * shogun-r322-s890706.blb
+
+Wishbringer
+------------------------------------------------
+* wishbringer-r68-s850501.z3
+* wishbringer-r69-s850920.z3
+* wishbringer-rX165-s880609.z3
+* wishbringer-invclues-r23-s880706.z5
