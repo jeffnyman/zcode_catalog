@@ -81,6 +81,16 @@ Wishbringer
 * wishbringer-rX165-s880609.z3
 * wishbringer-invclues-r23-s880706.z5
 
+Journey
+------------------------------------------------
+* journey-r83-s890706.z6
+* journey-r83-s890706.blb
+
+Arthur
+------------------------------------------------
+* arthur-r74-s890714.z6
+* arthur-r74-s890714.blb
+
 Glulx
 ------------------------------------------------
 * advent.blb
