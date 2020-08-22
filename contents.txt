@@ -80,3 +80,9 @@ Wishbringer
 * wishbringer-r69-s850920.z3
 * wishbringer-rX165-s880609.z3
 * wishbringer-invclues-r23-s880706.z5
+
+Glulx
+------------------------------------------------
+* advent.blb
+* advent.ulx
+* Adventura.gblorb
