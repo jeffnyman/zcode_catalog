@@ -3,24 +3,205 @@ A Mind Forever Voyaging
 * amfv-r79-s851122.z4
 * amfv-r79.zip (Source)
 
+Abyss
+------------------------------------------------
+* abyss-r1-s890320.z6
+* abyss-r1.zip (Source)
+
 Arthur
 ------------------------------------------------
 * arthur-r74-s890714.z6
 * arthur-r74-s890714.blb
+* arthur-r74.zip (Source)
 
 Ballyhoo
 ------------------------------------------------
 * ballyhoo-r99-s861014.z3
+* ballyhoo-r99.zip (Source)
+
+Beyond Zork
+------------------------------------------------
+* beyondzork-r60-s880610.z5
+* beyondzork-r60-s880610.blb
+* beyondzork-r60.zip (Source)
+
+Border Zone
+------------------------------------------------
+* borderzone-r9-s871008.z5
+* borderzone-r9.zip (Source)
+
+Bureaucracy
+------------------------------------------------
+* bureaucracy-r160-s880521.z4
+* bureaucracy-r160.zip (Source)
+
+Cutthroats
+------------------------------------------------
+* cutthroats-r25-s840917.z3
+* cutthroats-r25.zip (Source)
+
+Deadline
+------------------------------------------------
+* deadline-r28-s850129.z3
+* deadline-r28.zip (Source)
+
+Enchanter
+------------------------------------------------
+* enchanter-r29-s860820.z3
+* enchanter-mac-r16-s840518.z3
+* enchanter-r29.zip (Source)
+* enchanter-mac-r16.zip (Source)
+
+Hitchhiker's Guide to the Galaxy
+------------------------------------------------
+* hitchhiker-r60-s861002.z3
+* hitchhiker-invclues-r31-s871119.z5
+* hitchhiker-r60.zip (Source)
+* hitchhiker-invclues-r31.zip (Source)
+
+Hollywood Hijinx
+------------------------------------------------
+* hollywoodhijinx-r37-s861215.z3
+* hollywoodhijinx-r37.zip (Source)
+
+Hypochondriac
+------------------------------------------------
+* hypochondriac-r11-s870225.z3
+* hypochondriac.zip (Source)
+
+Infidel
+------------------------------------------------
+* infidel-r22-s830916.z3
+* infidel-mac-r22-s840522.z3
+* infidel-r22-s830916.zip (Source)
+* infidel-mac-r22-s840522.zip (Source)
+
+Journey
+------------------------------------------------
+* journey-r83-s890706.z6
+* journey-r83-s890706.blb
+* journey-r83.zip (Source)
+
+Leather Goddesses of Phobos
+------------------------------------------------
+* leathergoddesses-r59-s860730.z3
+* leathergoddesses-invclues-r4-s880405.z5
+* leathergoddesses-r59.zip (Source)
+* leathergoddesses-invclues-r4.zip (Source)
+
+Lurking Horror
+------------------------------------------------
+* lurkinghorror-r221-s870918.z3
+* lurkinghorror-r221-s870918.blb
+* lurkinghorror-r221.zip (Source)
+
+Mini-Zork (1 and 2)
+------------------------------------------------
+* minizork-r34-s871124.z3
+* minizork2-r2-s871123.z3
+* minizork-r34.zip (Source)
+* minizork2-r2.zip (Source)
+
+Moonmist
+------------------------------------------------
+* moonmist-r13-s880501.z3
+* moonmist-r13.zip (Source)
+
+Nord and Bert Couldn't Make Head or Tail of It
+------------------------------------------------
+* nordandbert-r20-s870722.z4
+* nordandbert-r20.zip (Source)
 
 Planetfall
 ------------------------------------------------
 * planetfall-r39-s880501.z3
 * planetfall-invclues-r10-s880531.z5
+* planetfall-r39.zip (Source)
+* planetfall-invclues-r10.zip (Source)
+
+Plundered Hearts
+------------------------------------------------
+* plunderedhearts-r26-s870730.z3
+* plunderedhearts-r26.zip (Source)
+
+Restaurant at the End of the Universe
+------------------------------------------------
+* restaurant-r15-s880512.z5
+* restaurant-r184-s890412.z6
+* restaurant-r15.zip (Source)
+* restaurant-r184.zip (Source)
+
+Seastalker
+------------------------------------------------
+* seastalker-r18-s850919.z3
+* seastalker-r18.zip (Source)
+
+Sherlock
+------------------------------------------------
+* sherlock-r26-s880127.z5
+* sherlock-r26-s880127.blb
+* sherlock-r26.zip (Source)
+
+Shogun
+------------------------------------------------
+* shogun-r322-s890706.z6
+* shogun-r322-s890706.blb
+* shogun-r322.zip (Source)
+
+Sorcerer
+------------------------------------------------
+* sorcerer-r18-s860904.z3
+* sorcerer-r18.zip (Source)
+
+Spellbreaker
+------------------------------------------------
+* spellbreaker-r87-s860904.z3
+* spellbreaker-r87.zip (Source)
+
+Starcross
+------------------------------------------------
+* starcross-r18-s830114.z3
+* starcross-r18.zip (Source)
+
+Stationfall
+------------------------------------------------
+* stationfall-r107-s870430.z3
+* stationfall-r107.zip (Source)
+
+Suspect
+------------------------------------------------
+* suspect-i190-r18-s850222.z3
+* suspect-r18.zip (Source)
+
+Suspended
+------------------------------------------------
+* suspended-r8-s830521.z3
+* suspended-mac-r8-s840521.z3
+* suspended-rlater.zip (Source)
+* suspended-mac-r8.zip (Source)
+
+Trinity
+------------------------------------------------
+* trinity-r15-s870628.z4
+* trinity-r15.zip (Source)
+
+Wishbringer
+------------------------------------------------
+* wishbringer-r69-s850920.z3
+* wishbringer-invclues-r23-s880706.z5
+* wishbringer-r69.zip (Source)
+* wishbringer-invclues-r23.zip (Source)
+
+The Witness
+------------------------------------------------
+* witness-r23-s840925.z3
+* witness-r23.zip (Source)
 
 Zork 0
 ------------------------------------------------
 * zork0-r393-s890714.z6
 * zork0-r393-s890714.blb
+* zork0-r393.zip (Source)
 
 Zork 1
 ------------------------------------------------
@@ -32,6 +213,11 @@ Zork 1
 * zork1-r20-sXXXXXX.z3
 * zork1-r119-s880429.z3
 * zork1-invclues-r52-s871125.z5
+* zork1-german-r15-s890613.z6
+* zork1-r88.zip (Source)
+* zork1-r119.zip (Source)
+* zork1-invclues-r52.zip (Source)
+* zork1-german-r15.zip (Source)
 
 Zork 2
 ------------------------------------------------
@@ -40,6 +226,8 @@ Zork 2
 * zork2-mac-r22-s840518.z3
 * zork2-r48-s840904.z3
 * zork2-r63-s860811.z3
+* zork2-r63.zip (Source)
+* zork2-mac-r22.zip (Source)
 
 Zork 3
 ------------------------------------------------
@@ -48,54 +236,8 @@ Zork 3
 * zork3-mac-r15-s840518.z3
 * zork3-r17-s840727.z3
 * zork3-r25-s860811.z3
-
-Mini-Zork
-------------------------------------------------
-* minizork-r2-s840207.z3
-* minizork-r34-s871124.z3
-
-Bureaucracy
-------------------------------------------------
-* bureaucracy-r86-s870212.z4
-* bureaucracy-r116-s870602.z4
-* bureaucracy-r160-s880521.z4
-
-Infidel
-------------------------------------------------
-* infidel-r22-s830916.z3
-* infidel-mac-r22-s840522.z3
-
-Starcross
-------------------------------------------------
-* starcross-r15-s820901.z3
-* starcross-r17-s821021.z3
-* starcross-r18-s830114.z3
-
-Trinity
-------------------------------------------------
-* trinity-r15-s870628.z4
-
-Cutthroats
-------------------------------------------------
-* cutthroats-r25-s840917.z3
-
-Shogun
-------------------------------------------------
-* shogun-r322-s890706.z6
-* shogun-r322-s890706.blb
-
-Wishbringer
-------------------------------------------------
-* wishbringer-r68-s850501.z3
-* wishbringer-r69-s850920.z3
-* wishbringer-rX165-s880609.z3
-* wishbringer-invclues-r23-s880706.z5
-
-Journey
-------------------------------------------------
-* journey-r83-s890706.z6
-* journey-r83-s890706.blb
-
+* zork3-r25.zip (Source)
+* zork3-mac-r15.zip (Source)
 
 ZBlorb
 ------------------------------------------------
