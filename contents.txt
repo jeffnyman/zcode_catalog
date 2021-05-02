@@ -245,6 +245,8 @@ ZBlorb
 * hoosegow.zblorb
 * wedding.zblorb
 * wscholars.zblorb
+* zork1-r2-sAS000C.zblorb
+* zork1-r119-s880429.zblorb
 
 Glulx
 ------------------------------------------------
