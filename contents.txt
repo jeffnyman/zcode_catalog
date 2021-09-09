@@ -254,3 +254,34 @@ Glulx
 * advent.ulx
 * vampire_ltd.gblorb
 * zork_i7.ulx
+
+Inform
+------------------------------------------------
+* aug4.z8
+* awaken.z5
+* balances.z5
+* bluechairs.z5
+* bomber.z5
+* delusions.z5
+* destruct.z1
+* devours.z5
+* dreamhold.z8
+* edifice.z5
+* fade.z1
+* freefall.z5
+* green.z2
+* huntdark.z5
+* jigsaw.z8
+* magic-toyshop.z5
+* minster.z5
+* tangle.z5
+* varicella.z8
+* vespers.z8
+* wumpus.z5
+* wurm.z5
+* zlife.z5
+* zombies.z5
+* zracer.z5
+* zsnake.z5
+* ztornado.z5
+* ztrek.z5
